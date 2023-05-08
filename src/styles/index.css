@@ -10,3 +10,45 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+body{
+    background-color: #222831;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    font-size: 5rem;
+    color: #EEEEEE;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tamaño{
+    font-size: 4rem;
+    color: #EEEEEE;
+}
+
+.boxer{
+    height: 10rem;
+    width: 50rem;
+    border-radius: 2rem;
+    background-color: #393E46;
+
+}
+
+.counter2{
+    border-radius: 20px;
+    width: 5rem;
+    height: 5rem;
+    background-color: #00ADB5;
+}
+
+.btn{
+    font-weight: bold;
+    color: #EEEEEE;
+}
+
